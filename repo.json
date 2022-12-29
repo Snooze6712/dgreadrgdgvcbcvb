@@ -3,6 +3,6 @@
     "description": "Secret providers repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/Snooze6712/dgreadrgdgvcbcvb/blob/builds/plugins.json"
+      "https://raw.githubusercontent.com/Snooze6712/dgreadrgdgvcbcvb/builds/plugins.json"
     ]
 }
