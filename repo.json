@@ -1,0 +1,8 @@
+{
+    "name": "Secret providers repository",
+    "description": "Secret providers repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://github.com/Snooze6712/dgreadrgdgvcbcvb/blob/builds/plugins.json"
+    ]
+}
